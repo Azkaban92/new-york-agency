@@ -132,7 +132,7 @@ li {display: inline;
                      font-family: "Open Sans";
                      text-transform: uppercase;}
 
-.arrow {background-image: url(../img/abg.png);
+.arrow {background-color: rgba(0,173,124,0.5);
         float: right;
         padding: 6.80% 20px 6.80% 20px;
         position: relative;
@@ -140,7 +140,7 @@ li {display: inline;
 
 .hero__par {color: white;
             width: 35.83%;
-            background-image: url(../img/bg.png);
+            background-color: rgba(0,173,124,0.5);
             padding-left: 7.92%;
             padding-right: 9%;
             padding-top: 37px;
